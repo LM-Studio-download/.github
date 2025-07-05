@@ -59,7 +59,7 @@ LM Studio is a versatile desktop application that allows you to run local large 
 
 ### 🖼 Preview
 
-![LM Studio Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQBAqnX6vz4vb9jZLyszVAzhP2kleFrIylA&s)  
+![LM Studio Screenshot](https://docs.tasking.ai/assets/images/lm-studio-6179a30aded13579583d8c6b324e0128.png)  
 ![LM Studio Server](https://lmstudio.ai/assets/docs/server.png)
 
 ---
